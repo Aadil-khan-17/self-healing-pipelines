@@ -1,0 +1,14 @@
+duckdb>=1.1
+pandas>=2.0
+openpyxl
+pydantic>=2
+pytest
+groq>=0.30
+streamlit>=1.40
+mlflow>=3.0
+langgraph>=0.2
+# Phase 2 (agents):
+# langgraph
+# mlflow
+# streamlit
+# a free LLM client: groq / google-generativeai / ollama
